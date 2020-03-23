@@ -1,0 +1,43 @@
+{
+   "crmid":"1234",
+   "callername":"Arul",
+   "gender":"M",
+   "emiratesid":"EBA114334",
+   "calleremail":"customer@testmailcom",
+   "CallerNationality":"UAE",
+   "CallerNumber":"9789350227",
+   "CallerVIPflag":"Yes",
+   "CallerregisteredLanguage":"EN",
+   "IVRName":"TestName",
+   "IVRLanguage":"EN",
+   "CallDirection":"Incoming",
+   "Last5Menus":"2-3-4-7-1",
+   "TransferToagentreason":"Validation",
+   "ComplainReference":"COM10031334",
+   "IVRDuration":"7-20",
+   "TransferVDN":"1023",
+   "UCID":"0234no23sr32",
+   "RepetedTransfer":"Y",
+   "callnotes":[
+      {
+         "date":"2019-11-23",
+         "notes":"note one"
+      },
+      {
+         "date":"2019-11-24",
+         "notes":"note two"
+      },
+      {
+         "date":"2019-11-25",
+         "notes":"note three"
+      },
+      {
+         "date":"2019-11-26",
+         "notes":"note four"
+      },
+      {
+         "date":"2019-11-27",
+         "notes":"note file"
+      }
+   ]
+}
